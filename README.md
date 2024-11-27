@@ -1,2 +1,1 @@
-# Compiladorcito
-Nuestro bebe
+# kubernet-replit
